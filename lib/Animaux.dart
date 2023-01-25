@@ -44,13 +44,13 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://imgs.search.brave.com/Y1TA7Db_KHZWgCL8NTgpoACaJZmOvFmmtygMXqe7BEU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXM0LmFscGhhY29k/ZXJzLmNvbS8xMDkv/MTA5MTYzNi5qcGc",
+                            "https://imgs.search.brave.com/1wI2-jqgUhVQY8-kVgPHD2hYLxh3dHwi4OxwGQIgVWk/rs:fit:1200:1129:1/g:ce/aHR0cHM6Ly9hbmlt/YWxheHkuZnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMDEv/YW5pbWFsLTM3MDk3/NjlfMTI4MC5qcGc",
                             fit: BoxFit.cover,
                           ),
                         ),
                       ),
                     ),
-                    Positioned(
+                    const Positioned(
                       bottom: 10,
                       child: Text(
                         "Zèbre",
@@ -81,13 +81,13 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://imgs.search.brave.com/YWacBz_GRXgla_heDGaDyZ1GU2lipReN-Pc8HZPIqXg/rs:fit:1200:1200:1/g:ce/aHR0cDovL215c3Rp/Yy1kcmVhbXMubS55/LnBpYy5jZW50ZXJi/bG9nLm5ldC9vL2Q0/MTRjMGYwLmpwZw",
+                            "https://images.toucharger.com/img/graphiques/fonds_d_ecran/animaux/girafe/girafe.37164.jpg",
                             fit: BoxFit.cover,
                           ),
                         ),
                       ),
                     ),
-                    Positioned(
+                    const Positioned(
                       bottom: 10,
                       child: Text(
                         "Girafe",
@@ -126,7 +126,7 @@ class GalleryAnimaux extends StatelessWidget {
                         ),
                       ),
                     ),
-                    Positioned(
+                    const Positioned(
                       bottom: 10,
                       child: Text(
                         "Elephant",
@@ -165,7 +165,7 @@ class GalleryAnimaux extends StatelessWidget {
                         ),
                       ),
                     ),
-                    Positioned(
+                    const Positioned(
                       bottom: 10,
                       child: Text(
                         "Panda Roux",
