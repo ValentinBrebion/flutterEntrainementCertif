@@ -20,6 +20,8 @@ class PageInfoElephant extends StatelessWidget {
   Widget build(BuildContext context) {
     return ListView(children: [
       CarouselSlider(
+     
+   
         items: [
           Container(
             //margin: EdgeInsets.all(8.0),
@@ -27,7 +29,7 @@ class PageInfoElephant extends StatelessWidget {
               //borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
                 image: NetworkImage(
-                    "https://imgs.search.brave.com/2KGj6GKmcCOqUiD6kUY-BC3JX4YCdzF7K0RwYjibt7g/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9pLm5h/dGdlb2ZlLmNvbS9u/LzQyMjMyOWZlLTIy/ZDEtNDZkZi05Y2Rk/LTg2MjNmODU2NWE0/Ny8zMDY1MS5qcGc_/dz0xMjAw"),
+                    "https://media.discordapp.net/attachments/1078025695093076049/1078027619158728886/Capture_decran_2023-02-22_195637.jpg?width=881&height=584"),
                 fit: BoxFit.cover,
               ),
             ),
@@ -38,7 +40,7 @@ class PageInfoElephant extends StatelessWidget {
               //borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
                 image: NetworkImage(
-                    "https://imgs.search.brave.com/RxuVZELhQk3bhLwJLFbiUi9W2geKv-OtYOKAod5pel0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tVTZNT2VaWXRw/UUEvVWl5enAyU0ht/eUkvQUFBQUFBQUFZ/VE0vSmRWSkt4X29t/LWcvczE2MDAvQWZy/aWNhbitFbGVwaGFu/dCtXYWxscGFwZXJz/LmpwZw"),
+                    "https://media.discordapp.net/attachments/1078025695093076049/1078027287171182743/Capture_decran_2023-02-22_195515.jpg?width=778&height=584"),
                 fit: BoxFit.cover,
               ),
             ),
@@ -49,14 +51,15 @@ class PageInfoElephant extends StatelessWidget {
               //borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
                 image: NetworkImage(
-                    "https://imgs.search.brave.com/23Chnjk4ENdDvlfhOgjTOvvJq5vx8_WxL-9IuNP_O7I/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pMS53/cC5jb20vbnlwb3N0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/c2l0ZXMvMi8yMDE1/LzA1L2VsZXBoYW50/LmpwZz9xdWFsaXR5/PTkwJnN0cmlwPWFs/bCZzc2w9MQ"),
-                //fit: BoxFit.cover,
+                    "https://media.discordapp.net/attachments/1078025695093076049/1078026473035808828/Capture_decran_2023-02-22_195126.jpg?width=880&height=584"),
+                fit: BoxFit.cover,
               ),
             ),
           ),
         ],
         options: CarouselOptions(
-          height: 200.0,
+          height: 300.0,
+          viewportFraction: 1,
           //enlargeCenterPage: true,
           autoPlay: true,
           autoPlayCurve: Curves.fastOutSlowIn,

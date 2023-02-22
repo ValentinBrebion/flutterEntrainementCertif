@@ -44,7 +44,7 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://imgs.search.brave.com/1wI2-jqgUhVQY8-kVgPHD2hYLxh3dHwi4OxwGQIgVWk/rs:fit:1200:1129:1/g:ce/aHR0cHM6Ly9hbmlt/YWxheHkuZnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMDEv/YW5pbWFsLTM3MDk3/NjlfMTI4MC5qcGc",
+                            "https://media.discordapp.net/attachments/1078025695093076049/1078028044809277490/zebre_present.jpg?width=621&height=584",
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -81,7 +81,7 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://images.toucharger.com/img/graphiques/fonds_d_ecran/animaux/girafe/girafe.37164.jpg",
+                            "https://media.discordapp.net/attachments/1078025695093076049/1078028295792234566/girafepresent.jpg?width=775&height=584",
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -120,7 +120,7 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://2.bp.blogspot.com/-6f2mFXyrboo/VxFcz4Oh_oI/AAAAAAAAFYM/nhU-r8eVcVQgTj0aZVrjtM4TV8CidqjVgCKgB/s1600/Elephant-Animal-HD-Wallpapers.jpg",
+                            "https://media.discordapp.net/attachments/1078025695093076049/1078028588399480902/elephtantpresent.jpg?width=936&height=583",
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -159,7 +159,7 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://imgs.search.brave.com/KnLJ94QUZaxfwVoZVev8dIcOPHwoP6DVnkidNCvPy_A/rs:fit:1200:847:1/g:ce/aHR0cHM6Ly9hbmlt/YWxheHkuZnIvd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMDkv/cmVkLXBhbmRhLTk4/MTIzMV8xMjgwLmpw/Zw",
+                            "https://media.discordapp.net/attachments/1078025695093076049/1078029211157147759/pandarouxpresent.jpg?width=893&height=584",
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -197,7 +197,7 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://imgs.search.brave.com/rDdjy0M2FjCz8rTxxME1H0Rkra4_ZtSvlreNFsRMjpg/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMzLmFscGhhY29k/ZXJzLmNvbS81ODgv/dGh1bWItMTkyMC01/ODg5MDkuanBn",
+                            "https://media.discordapp.net/attachments/1078025695093076049/1078029436886192159/pandapresent.jpg?width=1054&height=583",
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -237,7 +237,7 @@ class GalleryAnimaux extends StatelessWidget {
                           width: 300,
                           height: 100,
                           child: Image.network(
-                            "https://imgs.search.brave.com/DnN5u6X04VFqhpEP1jH9EtvdL49SMVLfxmv5io_RSig/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9kYWls/eWdlZWtzaG93LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8wOS91bmUtZHJh/Z29uLWtvbW9kby5q/cGVn",
+                            "https://media.discordapp.net/attachments/1078025695093076049/1078029681741275156/dragkompresent.jpg?width=1040&height=584",
                             fit: BoxFit.cover,
                           ),
                         ),

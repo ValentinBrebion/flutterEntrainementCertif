@@ -27,7 +27,7 @@ class PageInfoDragKom extends StatelessWidget {
               //borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
                 image: NetworkImage(
-                    "https://imgs.search.brave.com/YiHw4Fe4WDwSajCPqmOZgiRcG8Lt0t-QfhGo5EsadTY/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5F/bkROc1FucmMza0No/NllPRWxiUVBnSGFF/OCZwaWQ9QXBp"),
+                    "https://media.discordapp.net/attachments/1078025695093076049/1078030323813712012/dragkominfo1.jpg"),
                 fit: BoxFit.cover,
               ),
             ),
@@ -38,7 +38,7 @@ class PageInfoDragKom extends StatelessWidget {
               //borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
                 image: NetworkImage(
-                    "https://imgs.search.brave.com/hT2RqPCaaGasnwtCkkDA24tw8Oyf8Ehtm8_SIsoMNcg/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5D/eWNvcUtZUWZiLTNf/SHRvNnRyUVlRSGFF/NyZwaWQ9QXBp"),
+                    "https://media.discordapp.net/attachments/1078025695093076049/1078030513102672054/dragkominfo2.jpg"),
                 fit: BoxFit.cover,
               ),
             ),
@@ -49,13 +49,14 @@ class PageInfoDragKom extends StatelessWidget {
               //borderRadius: BorderRadius.circular(10.0),
               image: DecorationImage(
                 image: NetworkImage(
-                    "https://imgs.search.brave.com/FH2AeOt5ZNregeGUOb04ajYTYGBcqDK7m7q9IoP8ekk/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC44/MTBVZWE0d3h0SFln/SkRGckxmWGJ3SGFF/SyZwaWQ9QXBp"),
+                    "https://media.discordapp.net/attachments/1078025695093076049/1078030730967400468/dragkominfo3.jpg"),
                 //fit: BoxFit.cover,
               ),
             ),
           ),
         ],
         options: CarouselOptions(
+          viewportFraction: 1,
           height: 200.0,
           //enlargeCenterPage: true,
           autoPlay: true,

@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.blueGrey,
-        appBar: AppBar(title: const Text('SIO APP DELAMORTQUITU')),
+        appBar: AppBar(title: const Text('AnimApp')),
         drawer: myDrawer(),
         body: const HomePage(),
       ),

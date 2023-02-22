@@ -41,14 +41,21 @@ class HomePage extends StatelessWidget {
     );
   }).toList(),
 ),
-    ),Card(
+    ),
+    
+Padding(
+    padding: EdgeInsets.only(top:20),
+     child: Text("Animal de la semaine :",
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 30, decoration: TextDecoration.underline)),
+),
+    Card(
       margin:EdgeInsets.only(top:20),
         elevation: 0,
         color: Theme.of(context).colorScheme.surfaceVariant,
         child: SizedBox(
           width: 300,
           height: 100,
-          child:  Image.network("https://imgs.search.brave.com/y18UdzLEmkXV81x9_K1GPGcFLngHl3LR57P6o-qN8KE/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/Mmx2dG80NDBqdXcy/MS5qcGc_YXV0bz13/ZWJwJnM9MmRiOTQx/OGNkODgwY2Q3YzVj/OGI1YjEwYWM5ZDQy/MTg0NDQxMTQ4NQ",fit: BoxFit.cover,)),
+          child:  Image.network("https://media.discordapp.net/attachments/1078025695093076049/1078031346301145088/tutle.jpg?width=776&height=584",fit: BoxFit.cover,)),
 
         ),
         
